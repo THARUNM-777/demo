@@ -6,3 +6,4 @@ int main()
         scanf("%d",&a);
         printf("value is %d............",a);
 }
+printf("hello");
